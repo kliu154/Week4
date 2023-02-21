@@ -1,0 +1,5 @@
+1. MVC controllers inherited from Controller, Web API controllers inherited from ApiController.
+
+2. MVC controllers gives view support, Web API controller does not give view support.
+
+3. MVC controllers return views, Web API controllers return data.
